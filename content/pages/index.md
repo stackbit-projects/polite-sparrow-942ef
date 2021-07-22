@@ -48,10 +48,6 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: feature_item
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    reviews: []
   - section_id: lorem-ipsum
     background: gray
     features: []
