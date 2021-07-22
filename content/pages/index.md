@@ -51,13 +51,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    reviews:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
+    reviews: []
   - section_id: lorem-ipsum
     background: gray
     features: []
