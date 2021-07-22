@@ -39,13 +39,7 @@ sections:
           retail POS, spa and wellness app, revenue management, channel manager
           and several more.
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - image_alt: App users welcoming a new member
         actions: []
       - image_alt: lorem-ipsum
