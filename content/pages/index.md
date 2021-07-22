@@ -21,8 +21,7 @@ sections:
       Self Service Kiosk offer modular integrated solutions for staff and guest
       experience
     features:
-      - title: The Best Feature of Your Services
-        image_alt: App preview on a phone and tablet
+      - image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
