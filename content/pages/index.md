@@ -83,8 +83,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: feature_item
   - section_id: reviews
