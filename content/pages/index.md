@@ -51,14 +51,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    reviews:
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+    reviews: []
   - section_id: lorem-ipsum
     background: gray
     features: []
