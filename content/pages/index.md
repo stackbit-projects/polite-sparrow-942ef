@@ -22,10 +22,23 @@ sections:
       experience
     features:
       - image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Looking for the best technology to reach the pinnacle of growth to
+          collaborate and streamlined daily operations, consider Clovatel, a
+          cloud-based software solution integrated with an efficient,
+          economical, seamless innovated system to satisfy all your needs in the
+          hospitality industry.
+
+
+          With the evolution of cloud technology, hoteliers can embrace
+          technologies that can be programmed to streamlined practices making
+          operations more efficient, saving time for employees, and delivering
+          excellent guest experiences by scaling to new heights. Clovatel comes
+          with piping hot sale solution coupled and incorporated with tools such
+          as self-service kiosk, booking engine, room app, housekeeping appends
+          retail POS, spa and wellness app, revenue management, channel manager
+          and several more.
+
         actions:
           - label: Learn More
             url: /features
