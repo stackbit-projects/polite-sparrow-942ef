@@ -48,8 +48,7 @@ sections:
             icon_position: right
       - image_alt: App users welcoming a new member
         actions: []
-      - title: Cool Feature of Your Services
-        image_alt: App user profile preview
+      - image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
