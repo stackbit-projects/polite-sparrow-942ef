@@ -40,8 +40,6 @@ sections:
           and several more.
 
         actions: []
-      - image_alt: App users welcoming a new member
-        actions: []
       - image_alt: lorem-ipsum
         actions: []
         type: feature_item
