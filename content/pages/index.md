@@ -49,10 +49,6 @@ sections:
       - image_alt: App users welcoming a new member
         actions: []
       - image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
         actions:
           - label: Learn More
             url: /features
