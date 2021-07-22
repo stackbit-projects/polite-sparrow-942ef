@@ -126,7 +126,6 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     background: gray
     features: []
     type: section_features
