@@ -18,8 +18,8 @@ sections:
     background: gray
     title: HOSPITALITY MANAGEMENT SYSTEM
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Self Service Kiosk offer modular integrated solutions for staff and guest
+      experience
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
