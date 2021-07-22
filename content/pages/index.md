@@ -40,11 +40,6 @@ sections:
           and several more.
 
         actions: []
-  - section_id: single-btn
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
