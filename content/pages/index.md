@@ -132,7 +132,6 @@ sections:
     features: []
     type: section_features
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
