@@ -101,7 +101,6 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
