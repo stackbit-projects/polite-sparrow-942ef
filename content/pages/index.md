@@ -49,10 +49,6 @@ sections:
         actions: []
         type: feature_item
   - section_id: lorem-ipsum
-    background: gray
-    features: []
-    type: section_features
-  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     background: gray
     actions: []
