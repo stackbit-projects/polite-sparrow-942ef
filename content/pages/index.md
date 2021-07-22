@@ -47,13 +47,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - image_alt: App users welcoming a new member
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Cool Feature of Your Services
         image_alt: App user profile preview
         content: >-
