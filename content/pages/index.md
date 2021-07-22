@@ -68,8 +68,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions: []
         type: feature_item
       - image_alt: lorem-ipsum
