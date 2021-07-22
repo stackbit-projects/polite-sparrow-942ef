@@ -40,7 +40,6 @@ sections:
           and several more.
 
         actions: []
-        title: PMS
       - image_alt: App users welcoming a new member
         actions: []
       - image_alt: lorem-ipsum
