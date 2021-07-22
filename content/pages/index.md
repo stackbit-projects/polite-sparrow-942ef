@@ -43,9 +43,6 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
   - section_id: single-btn
     image_alt: lorem-ipsum
     background: gray
