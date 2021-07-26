@@ -1,8 +1,6 @@
 ---
 title: SELF SERVICE KIOSK
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: 'Guests self check-in to their rooms, eliminating long queue at the front desk.'
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
