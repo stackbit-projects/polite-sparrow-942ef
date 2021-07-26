@@ -197,8 +197,14 @@ img {
 }
 .grid.single-btn {
     display: block;
-    
+
     .cell.block-buttons {
         margin: auto;
     }
+}
+.block.bg-accent {
+    background-image: url(https://www.clovatel.com/wp-content/uploads/2020/04/specialbtn-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
