@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import Carousel from 'react-bootstrap/Carousel'
 
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
