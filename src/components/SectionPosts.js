@@ -48,15 +48,15 @@ export default class SectionPosts extends React.Component {
 
         return (
             <div>
-            <section id={sectionId} className= {`block  posts-block bg-${background} outer`}>
-                <div className="block-header inner-small">
-                    {title && <h2 className="block-title">{title}</h2>}
-                    {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
-                </div>
-                <div className="inner">
-                    <div className="grid post-feed">{_.map(recentPosts, (post, index) => this.renderRecentPost(post, index, data))}</div>
-                </div>
-            </section>
+                <section id={sectionId} className= {`block  posts-block bg-${background} outer`}>
+                    <div className="block-header inner-small">
+                        {title && <h2 className="block-title">{title}</h2>}
+                        {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
+                    </div>
+                    <div className="inner">
+                        <div className="grid post-feed">{_.map(recentPosts, (post, index) => this.renderRecentPost(post, index, data))}</div>
+                    </div>
+                </section>
         );
     }
 }
