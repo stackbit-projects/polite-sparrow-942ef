@@ -36,7 +36,7 @@ export default class SectionPosts extends React.Component {
             </article>
         );
     }
-    <div className="abc">
+
     render() {
         const section = _.get(this.props, 'section');
         const data = _.get(this.props, 'data');
@@ -48,7 +48,7 @@ export default class SectionPosts extends React.Component {
         const subtitle = _.get(section, 'subtitle');
 
         return (
-            
+            <div className="abc">
                 <section id={sectionId} className= {`block  posts-block bg-${background} outer`}>
                     <div className="block-header inner-small">
                         {title && <h2 className="block-title">{title}</h2>}
@@ -58,8 +58,7 @@ export default class SectionPosts extends React.Component {
                         <div className="grid post-feed">{_.map(recentPosts, (post, index) => this.renderRecentPost(post, index, data))}</div>
                     </div>
                 </section>
-            
+            </div>
         );
     }
-    </div>
 }
