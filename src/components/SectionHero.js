@@ -34,7 +34,7 @@ export default class SectionHero extends React.Component {
                             )}
                         </div>
                     </div> */}
-                    <Carousel fade>
+                    {/* <Carousel fade>
                         <Carousel.Item>
                             <img
                             className="d-block w-100"
@@ -70,7 +70,7 @@ export default class SectionHero extends React.Component {
                             <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                             </Carousel.Caption>
                         </Carousel.Item>
-                    </Carousel>
+                    </Carousel> */}
                 </div>
             </section>
         );
