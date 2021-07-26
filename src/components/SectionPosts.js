@@ -47,6 +47,7 @@ export default class SectionPosts extends React.Component {
         const subtitle = _.get(section, 'subtitle');
 
         return (
+            <div>
             <section id={sectionId} className= {`block  posts-block bg-${background} outer`}>
                 <div className="block-header inner-small">
                     {title && <h2 className="block-title">{title}</h2>}
