@@ -47,7 +47,7 @@ export default class SectionPosts extends React.Component {
         const subtitle = _.get(section, 'subtitle');
 
         return (
-            <section id={sectionId} className={`block bg-fixed posts-block bg-${background} outer`}>
+            <section id={sectionId} className= bg-fixed {`block  posts-block bg-${background} outer`}>
                 <div className="block-header inner-small">
                     {title && <h2 className="block-title">{title}</h2>}
                     {subtitle && <p className="block-subtitle">{htmlToReact(subtitle)}</p>}
