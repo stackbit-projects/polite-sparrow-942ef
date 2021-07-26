@@ -13,7 +13,7 @@ export default class SectionCta extends React.Component {
         const actions = _.get(section, 'actions');
 
         return (
-            <section id={sectionId} className="block cta-block bg-accent outer">
+            <section id={sectionId} className="block cta-block bg-accent outer single-bnt-wrp">
                 <div className="inner-large">
                     <div className="grid single-btn">
                         <div className="cell block-content">
