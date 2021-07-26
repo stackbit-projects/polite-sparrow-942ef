@@ -3,7 +3,6 @@ import _ from 'lodash';
 
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
-import Carousel from 'react-bootstrap/Carousel';
 
 export default class SectionHero extends React.Component {
     render() {
