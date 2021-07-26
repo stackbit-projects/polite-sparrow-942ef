@@ -197,7 +197,8 @@ img {
 }
 .grid.single-btn {
     display: block;
-}
-.grid.single-btn .cell.block-buttons {
+    .cell.block-buttons {
     margin: auto;
 }
+}
+.grid.single-btn 
