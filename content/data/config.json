@@ -95,7 +95,6 @@
             },
             {
                 "type": "footer_form",
-                "content": "Stay up to date with our latest developments.",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
