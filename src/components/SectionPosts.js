@@ -30,6 +30,7 @@ export default class SectionPosts extends React.Component {
                             <p>{excerpt}</p>
                         </div>
                         <BlogPostFooter post={post} dateType={'short'} data={data} />
+                        <button></button>
                     </div>
                 </div>
             </article>
