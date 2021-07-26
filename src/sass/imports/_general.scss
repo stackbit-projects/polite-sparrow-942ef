@@ -202,3 +202,9 @@ img {
         margin: auto;
     }
 }
+.p-wrap .cell.block-content {
+    width: 100%!important;
+    margin: 0px;
+    display: block;
+    max-width: 100%;
+}
