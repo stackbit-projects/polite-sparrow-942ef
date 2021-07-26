@@ -29,7 +29,7 @@ export default class SectionPosts extends React.Component {
                         <div className="post-excerpt">
                             <p>{excerpt}</p>
                         </div>
-                        <BlogPostFooter post={post} dateType={'short'} data={data} />
+                        {/* <BlogPostFooter post={post} dateType={'short'} data={data} /> */}
                         <button className="btn btn-primary"> Learn More </button>
                     </div>
                 </div>
