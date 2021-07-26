@@ -58,7 +58,8 @@ export default class SectionPosts extends React.Component {
                         <div className="grid post-feed">{_.map(recentPosts, (post, index) => this.renderRecentPost(post, index, data))}</div>
                     </div>
                 </section>
-            </div>
+            
         );
     }
+    </div>
 }
