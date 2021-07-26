@@ -42,7 +42,7 @@
                 "type": "footer_nav",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Home",
                         "url": "/about",
                         "style": "link"
                     },
