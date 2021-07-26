@@ -13,7 +13,7 @@ export default class SectionPosts extends React.Component {
         const excerpt = _.get(post, 'excerpt');
 
         return (
-            <article key={index} className="cell post back">
+            <article key={index} className="cell post bg-fixed">
                 <div className="card">
                     {thumbImage && (
                         <Link className="post-thumbnail" href={postUrl}>
