@@ -14,7 +14,7 @@ export default class SectionFeatures extends React.Component {
 
         return (
             <div key={index} className="block-item">
-                <div className="grid">
+                <div className="">
                     {image && (
                         <div className="cell block-preview">
                             <img src={withPrefix(image)} alt={imageAlt} />
